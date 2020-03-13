@@ -26,7 +26,7 @@ a {
   max-width: 980px;
   margin: auto;
 }
-.grid-container-blog{
+.grid-container-global{
   max-width: 980px;
   margin: auto;
 }
@@ -252,3 +252,4 @@ footer p {
 .proyect-container {
   padding: 0 5px;
 }
+
